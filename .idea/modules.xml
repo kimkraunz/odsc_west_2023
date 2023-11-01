@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../dynamic-time-warping/.idea/dynamic-time-warping.iml" filepath="$PROJECT_DIR$/../dynamic-time-warping/.idea/dynamic-time-warping.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/odsc_west_2023.iml" filepath="$PROJECT_DIR$/.idea/odsc_west_2023.iml" />
     </modules>
   </component>
